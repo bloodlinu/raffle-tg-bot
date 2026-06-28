@@ -1,0 +1,6 @@
+aiogram==3.10.0
+python-dotenv==1.0.1
+
+# Optional — only needed if GOOGLE_SHEETS_ENABLED=true
+gspread==6.1.2
+google-auth==2.29.0
