@@ -11,19 +11,19 @@ Users submit ticket requests, admins approve or reject them, and a leaderboard u
 ![Registration](screenshots/first.jpg)
 
 **Ticket request flow — deposit amount, time, and confirmation summary**
-![Ticket Request](screenshots/fourth.jpg)
+![Ticket Request](screenshots/second.jpg)
 
 **Ticket submitted — admin receives instant notification with Approve / Reject buttons**
-![Admin Notification](screenshots/sixth.jpg)
+![Admin Notification](screenshots/third.jpg)
 
-**Admin approves — user gets notified automatically**
-![Approval](screenshots/third.jpg)
+**Example Website - All buttons of your choice**
+![Approval](screenshots/fourth.jpg)
 
 **Leaderboard and user profile with weekly and all-time stats**
 ![Leaderboard and Profile](screenshots/fifth.jpg)
 
 **Google Sheets sync — approved tickets exported automatically**
-![Google Sheets](screenshots/second.jpg)
+![Google Sheets](screenshots/sixth.jpg)
 
 ---
 
